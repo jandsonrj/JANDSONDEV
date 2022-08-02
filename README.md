@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JANDSONDEV
+- 👋 Hi, I’m @JANDev
 - 👀 I’m interested in develop web pages
 - 🌱 I'm currently updating a frontend project
 - 💞️ I’m looking to collaborate on some web project
